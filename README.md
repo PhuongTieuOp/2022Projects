@@ -3,36 +3,36 @@
 
 ## Loan Application Assessment
 https://mlforloan.herokuapp.com/form.html
-This project used machine learning model to assess applicant’s income, assets, and other conditions to produce assessment results in 7sec.
+#### This project used machine learning model to assess applicant’s income, assets, and other conditions to produce assessment results in 7sec.
 Tools: Machine learning, Python, Pandas, SQL Alchemy, HTML, CSS, JavaScript, Matplotlib, Echarts, Seaborn | Deployment: Heroku with SQLite database.
 
 ## Victoria Crime Visualisation 
 https://github.com/PhuongTieuOp/project3
-This project reads Victoria Crime statistics quarterly data to show crime committed in different regions.
+#### This project reads Victoria Crime statistics quarterly data to show crime committed in different regions.
 Tools: Machine learning, Python, Pandas, SQL Alchemy, HTML, CSS, JavaScript, Matplotlib, chartjs | Deployment: Heroku with Postgres database.
 
 ## Jersey City Bike Rides 
 https://github.com/PhuongTieuOp/Tableau-Challenge
-This project empower user to analyse and visualize 12 months bike ride data.
+#### This project empower user to analyse and visualize 12 months bike ride data.
 Tools: Tableau, Python.
 
 ## Health Risk Journalism
 https://github.com/PhuongTieuOp/D3-Challenge1
-This project shows interactive scatter plot to enable user to visualise health risk factors based on health labels.
+#### This project shows interactive scatter plot to enable user to visualise health risk factors based on health labels.
 Tools: D3, JavaScript, HTML and CSS.
 
 ## Belly Button Biodiversity
 https://github.com/PhuongTieuOp/Plotly-Dashboard/tree/main
-To provide an interactive dashboard allows user select and explore various conditions and sample bacteria that exist in a tester's belly button.
+#### To provide an interactive dashboard allows user select and explore various conditions and sample bacteria that exist in a tester's belly button.
 Tools: Plotly, HTML, CSS, JavaScript.
 
 ## Earthquake Analysis 
 link https://github.com/PhuongTieuOp/Leaflet-Challenge
-This project reads last week earthquake data from United States Geological Survey (USGS) and show it on a geographic leaflet format.
+#### This project reads last week earthquake data from United States Geological Survey (USGS) and show it on a geographic leaflet format.
 Tools: Leaflet, HTML, CSS and JavaScript.
 
 ## UFO Sightings
-https://github.com/PhuongTieuOp/Javascript-challenge
+#### https://github.com/PhuongTieuOp/Javascript-challenge
 This project shows an on-line report which allows user to enter full or partial value on certain fields to find the wanted information!
 Tools: JavaScript, HTML, and CSS.
 
