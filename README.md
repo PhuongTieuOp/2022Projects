@@ -1,11 +1,6 @@
 # 2022Projects
 #### Phuong Tieu's Data Analytics Projects as at 2022
 
-## Loan Application Assessment
-https://mlforloan.herokuapp.com/form.html
-#### This project used machine learning model to assess applicant’s income, assets, and other conditions to produce assessment results in 7sec.
-Tools: Machine learning, Python, Pandas, SQL Alchemy, HTML, CSS, JavaScript, Matplotlib, Echarts, Seaborn | Deployment: Heroku with SQLite database.
-
 ## Victoria Crime Visualisation 
 https://github.com/PhuongTieuOp/project3
 #### This project reads Victoria Crime statistics quarterly data to show crime committed in different regions.
