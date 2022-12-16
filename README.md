@@ -1,11 +1,6 @@
 # 2022Projects
 #### Phuong Tieu's Data Analytics Projects as at 2022
 
-## Victoria Crime Visualisation 
-https://github.com/PhuongTieuOp/project3
-#### This project reads Victoria Crime statistics quarterly data to show crime committed in different regions.
-Tools: Machine learning, Python, Pandas, SQL Alchemy, HTML, CSS, JavaScript, Matplotlib, chartjs | Deployment: Heroku with Postgres database.
-
 ## Jersey City Bike Rides 
 https://github.com/PhuongTieuOp/Tableau-Challenge
 #### This project empower user to analyse and visualize 12 months bike ride data.
